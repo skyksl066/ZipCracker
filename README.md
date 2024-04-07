@@ -37,18 +37,23 @@ python3 ZipCracker.py test03.zip
 ```
 <img width="800" alt="image" src="https://github.com/asaotomo/ZipCracker/assets/67818638/db48ca5c-3c24-44a6-8a79-0398b1b56222">
 
+#### 5.字典產生器
+---
+使用Default值產生
+```
+python3 Dicgen.py
+```
+---
+自訂義
+1. sample.txt定義出現的字母或符號
+2. 定義字典最短長度
+3. 定義字典最長長度
+4. 輸出文件名稱
+```
+python3 Dicgen.py sample.txt password_list 1 5
+```
+
+
 ---
 
 **本工具仅提供给安全测试人员进行安全自查使用**，**用户滥用造成的一切后果与作者无关**，**使用者请务必遵守当地法律** **本程序不得用于商业用途，仅限学习交流。**
-
----
-
-**扫描关注战队公众号，获取最新动态**
-
-<img width="318" alt="image" src="https://user-images.githubusercontent.com/67818638/149507366-4ada14db-a972-4071-bbb6-197659f61ced.png">
-
-**【知识星球】福利大放送**
-
-<img width="318" alt="image" src="https://github.com/asaotomo/FofaMap/assets/67818638/94612a4c-9d38-4833-9aa1-35b9bd8028d1">
-
-
